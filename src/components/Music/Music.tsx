@@ -28,7 +28,7 @@ export const Music = () => {
                 className={styles.streamBtn}
               >
                 <img
-                  src={getImageUrl("../assets/contact/youtubeIcon.png")}
+                  src={getImageUrl("contact/youtubeIcon.png")}
                   alt="YouTube"
                 />
                 Watch on YouTube
