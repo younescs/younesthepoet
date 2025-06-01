@@ -1,0 +1,18 @@
+:root {
+  /* Colors */
+  --color-text: #ffffff;
+  --color-dark-text: #2d3748;
+  --color-primary: #05d8e8;
+  --color-secondary: #3ff4e5;
+  --color-accent: #fd79a8;
+  --color-dark: #0e1128;
+  --color-bg: #f7fafc;
+  --color-card-bg: #ffffff;
+  --color-border: #e2e8f0;
+  --color-bg-secondary: rgba(255, 255, 255, 0.1);
+  --color-text-secondary: rgba(255, 255, 255, 0.7);
+
+  /* Fonts */
+  --font-Roboto: "Roboto", sans-serif;
+  --font-display: "Outfit", sans-serif;
+}
